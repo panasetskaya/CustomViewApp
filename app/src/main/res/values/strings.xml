@@ -3,5 +3,10 @@
     <string name="hello_blank_fragment">Hello</string>
     <string name="fragment_one">This is mode one</string>
     <string name="fragment_two">This is mode twoooo</string>
-    <string name="fragment_three">This is mode 3. The last one!</string>
+    <string name="fragment_three">This is mode 3.\nThe last one!</string>
+    <string name="fan_off">off</string>
+    <string name="fan_low">l</string>
+    <string name="fan_medium">m</string>
+    <string name="fan_high">h</string>
+
 </resources>
