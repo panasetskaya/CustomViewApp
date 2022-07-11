@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomViewApp</string>
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="fragment_one">This is mode one</string>
+    <string name="fragment_two">This is mode twoooo</string>
+    <string name="fragment_three">This is mode 3. The last one!</string>
+</resources>
